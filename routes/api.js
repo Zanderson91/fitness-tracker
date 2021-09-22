@@ -45,7 +45,7 @@ router.get("/api/workouts/range", (req, res) => {
                 totalWeight: { $sum: "$exercises.weight" }
             }
         },
-    ]).sort({ _id: -1 }).limit(5).then(Workout => {
+    ]).sort({ _id: -1 }).limit(7).then(Workout => {
         res.json(Workout)
     }).catch(err => {
         res.status(400).json(err);

@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "name": "fitness-tracker",
+  "description": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zanderson91/fitness-tracker.git"
+  },
+  "author": "Zack",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Zanderson91/fitness-tracker/issues"
+  },
+  "homepage": "https://github.com/Zanderson91/fitness-tracker#readme",
+
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.12"
+  }
+}

@@ -19,7 +19,6 @@
     "url": "https://github.com/Zanderson91/fitness-tracker/issues"
   },
   "homepage": "https://github.com/Zanderson91/fitness-tracker#readme",
-
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",

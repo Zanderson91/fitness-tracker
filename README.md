@@ -18,6 +18,7 @@
 
   The app is deployed on Heroku and can be found here [https://anderson-fitness-tracker.herokuapp.com/?id=614d3e47f188341d22386484] and uses MongoDB Cloud Atlas to store the data on the backend.
 
+![Workout Tracker](https://user-images.githubusercontent.com/81836426/134695267-25b5ae0c-7671-49fb-bc8f-012306766895.gif)
 
 
   # Table of Contents

@@ -1,8 +1,8 @@
-  # NoSQL Workout Tracker
+  # NoSQL Fitness Tracker
 
   
   # Description
-  The Workout Tracker app allows users to create and track workouts.
+  The Fitness Tracker app allows users to create and track workouts.
 
    Users are able to:
     
@@ -17,6 +17,8 @@
     * View live graphs or your progress in the dashboard of the app!
 
   The app is deployed on Heroku and can be found here [https://anderson-fitness-tracker.herokuapp.com/?id=614d3e47f188341d22386484] and uses MongoDB Cloud Atlas to store the data on the backend.
+
+  ![Fitness Tracker] (./Workout Tracker.gif)
 
   # Table of Contents
   - [Description](#Description)
